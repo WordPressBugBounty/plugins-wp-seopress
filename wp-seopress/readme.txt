@@ -80,8 +80,8 @@ SEOPress is a powerful WordPress SEO plugin to optimize your SEO, boost your tra
 [youtube https://youtu.be/zxGCY-bJYwE]
 
 <ul>
-	<li><a href="https://www.seopress.org/features/openai/" target="_blank"><strong>Use Artificial Intelligence (GPT 4 / Vision and GPT 3.5 Turbo) to generate SEO metadata and alternative texts for image files. Bulk actions supported.</li>
-    <li><a href="https://www.seopress.org/features/seo-alerts/" target="_blank">Receive SEO alerts to prevent breaking your SEO before it's too late</a></li>
+	<li><a href="https://www.seopress.org/features/openai/" target="_blank"><strong>Use Artificial Intelligence (GPT 4 / Vision and GPT 3.5 Turbo) to generate SEO metadata and alternative texts for image files. Bulk actions supported.</strong></li>
+	<li><a href="https://www.seopress.org/features/site-audit/" target="_blank"><strong>Site Audit: Detect technical issues that could harm your site's SEO directly from your WordPress administration.</strong></li>
 	<li><a href="https://www.seopress.org/support/guides/import-metadata-from-a-csv-file-with-seopress-pro/" target="_blank"><strong>Import / export metadata</strong></a> (titles, open graph, robots...) from / to CSV file</li>
 	<li><a href="https://www.seopress.org/features/sitemaps/" target="_blank"><strong>Video XML Sitemap</strong></a> to improve rankings in video search results. YouTube videos are automatically added.</li>
 	<li>Internal linking suggestions</li>
