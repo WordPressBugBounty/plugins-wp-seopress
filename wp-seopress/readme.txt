@@ -6,7 +6,7 @@ Tags: SEO, google search console, xml sitemap, schema, ai
 Requires at least: 6.2+
 Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 9.7
+Stable tag: 9.7.3
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -154,7 +154,7 @@ We support WooCommerce and Easy Digital Downloads for e-commerce sites.
 
 [youtube https://youtu.be/sf0ocG7vQMM]
 
-Elementor, Divi, Block Editor, Bricks, Oxygen, WP Bakery, WP Fusion, Breakdance, Avada Builder. We support all of them!
+Elementor, Divi, Block Editor, Bricks, Oxygen, WP Bakery, WP Fusion, Breakdance, Avada Builder, Kadence. We support all of them!
 
 <h3>SEOPress Insights: Off-site SEO plugin to track your rankings and backlinks in WordPress</h3>
 
@@ -308,6 +308,21 @@ By using our contact form (select Misc as subject), or directly from <a href="ht
 12. Schema metabox
 
 == Changelog ==
+= 9.7.3 =
+* FIX Manual custom schema save
+* FIX Video sitemap performance
+* FIX GA4 auth button
+* FIX Mistral multimodal detection and update model list
+* FIX PHP templates warnings
+* FIX CPTs list
+* FIX Instant indexing generate key button
+
+= 9.7.2 =
+* FIX Toggle on PRO settings
+
+= 9.7.1 =
+* FIX Fatal error with White Label feature
+
 = 9.7 <a href="https://www.seopress.org/newsroom/product-news/seopress-9-7/">Read the blog post update</a> =
 * NEW Brand new React-based settings UI for a faster and more modern administration experience (first iteration) 🎉
 * NEW Add Seznam.cz site verification support
