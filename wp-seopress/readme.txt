@@ -75,7 +75,6 @@ A cookie banner that works with your cache plugin, connected schemas, and your S
 	<li><strong>Titles &amp; meta descriptions</strong> with <a href="https://www.seopress.org/support/guides/manage-titles-meta-descriptions/">dynamic variables</a> (custom fields, terms, taxonomies).</li>
 	<li><strong>Open Graph &amp; X (Twitter) Cards</strong> for Facebook, LinkedIn, Instagram, Pinterest, WhatsApp, Threads…</li>
 	<li><strong>Google Knowledge Graph</strong>: Organization data with address &amp; legal fields (new in 9.8).</li>
-	<li><strong>llms.txt &amp; Agent Readiness</strong>: Help AI search engines understand your site (new in 9.8).</li>
 	<li><strong>Google Analytics 4 &amp; Matomo</strong>: Downloads tracking, custom dimensions, IP anonymization, remarketing, demographics, cross-domain tracking, GDPR-friendly.</li>
 	<li><strong>Microsoft Clarity</strong> integration: Free heatmaps and session recordings.</li>
 	<li><strong>Custom canonical URLs</strong> and <a href="https://www.seopress.org/support/guides/manage-meta-robots/">meta robots</a> (noindex, nofollow, noimageindex, nosnippet).</li>
@@ -100,6 +99,7 @@ A cookie banner that works with your cache plugin, connected schemas, and your S
 	<li><a href="https://www.seopress.org/features/openai/" target="_blank"><strong>AI SEO</strong></a>: Auto-generate titles, descriptions, OG / X tags and image alt text in bulk with OpenAI, Google Gemini (incl. **Gemini 3 Flash &amp; 3.1 Pro**), Anthropic Claude, MistralAI, DeepSeek.</li>
 	<li><a href="https://www.seopress.org/features/site-audit/" target="_blank"><strong>Site Audit</strong></a>: Full React + DataViews experience with **GSC-backed recommendations**, scan history, live progress, one-click AI alt text fixes, CSV export.</li>
 	<li><a href="https://www.seopress.org/features/seo-alerts/" target="_blank"><strong>SEO alerts</strong></a>: Be warned before SEO regressions hit production.</li>
+	<li><strong>llms.txt &amp; Agent Readiness</strong>: Help AI search engines understand your site (new in 9.8).</li>
 	<li><a href="https://www.seopress.org/features/google-search-console/" target="_blank"><strong>Google Search Console</strong></a>: Clicks, impressions, CTR, average position right inside post lists.</li>
 	<li><a href="https://www.seopress.org/features/google-suggest/" target="_blank"><strong>Google Suggestions</strong></a> in content analysis for long-tail keyword discovery.</li>
 	<li><a href="https://www.seopress.org/features/301-redirects/" target="_blank"><strong>Redirect manager</strong></a>: Unlimited 301/302/307/410/451 redirects, regex, URL tester modal, categories, CSV/htaccess import &amp; export.</li>
